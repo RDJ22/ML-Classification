@@ -12,7 +12,7 @@ A machine learning project comparing Decision Trees, Random Forests, and Support
 
 ## Project Overview
 
-> This project explores classification models through both theoretical derivation and empirical application. In Q1, we derive the Gini impurity for Decision Trees and explain how Random Forests address overfitting using bootstrapping and feature bagging. In Q2, we apply Decision Trees, Random Forests, and SVM to the Iris dataset, tuning each model with cross-validation and comparing their performance using classification metrics.
+> This project explores classification models through both theoretical derivation and empirical application. In Q1, I derive the Gini impurity for Decision Trees and explain how Random Forests address overfitting using bootstrapping and feature bagging. In Q2, I apply Decision Trees, Random Forests, and SVM to the Iris dataset, tuning each model with cross-validation and comparing their performance using classification metrics.
 
 - Derived the Gini Impurity for Decision Tree splitting  
 - Explained improvements via *Random Forests* (bagging + bootstrapping)  
