@@ -6,9 +6,8 @@ A machine learning project comparing Decision Trees, Random Forests, and Support
 
 ## Assignment Prompt
 
-- [Assignment PDF – SML_Task1_2.pdf](./SML%20Task1_2.pdf)
-
----
+- [`SML_Task1_2.pdf`](./SML%20Task1_2.pdf) – Assignment description
+- -------------
 
 ## Project Overview
 
